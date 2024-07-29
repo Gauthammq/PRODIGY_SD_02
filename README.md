@@ -43,3 +43,9 @@ Develop a program that generates a random number within a specified range and ch
   - `tkinter` for the graphical user interface
 
 
+
+ ## Author
+
+ - [Gautham Krishna R](https://github.com/Gauthammq)
+
+
